@@ -1,0 +1,9 @@
+{
+  "message": "Hello",
+  "difficulty": 20,
+  "algorithm": "sha256",
+  "nonce": 490691,
+  "hash": "00000cede446c9acba5acd73cd2fdfb0e77392f018ffc54806dbf4fbcac6ce39",
+  "elapsed_seconds": 12.129055261611938,
+  "approx_hash_rate": 41633.78931869932
+}
